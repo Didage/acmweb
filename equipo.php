@@ -13,7 +13,6 @@
 		<p>ACM Uniandes es un grupo de estudiantes innovadores, emprendedores y trabajadores. Somos apasionados por la computación, queremos esparcir
 			el interés por ella como ciencia, profesión y arte. Estamos comprometidos con resolver los problemas de nuestra comunidad por medio de la herramienta de transformación más poderosa de todas, la tecnología. Para lograrlo, simplemente necesitamos aglomerar un grupo de gente muy inteligente.</p>
 
-		</section>
 	<section class="box special features">
 				<div class="features-row">
 					<section>
@@ -40,6 +39,8 @@
 					</section>
 				</div>
 			</section>
+
+	</section>
 
 		<?php include 'include/footer.php'; ?>
 
