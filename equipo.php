@@ -17,8 +17,8 @@
 				<div class="features-row">
 					<section>
 						<span class="icon major fa-bolt icon1"></span>
-						<h3>¿Por qué lo hacemos?</h3>
-						<p>Porque nos gusta ayudar a la comunidad por medio de lo que más nos gusta hacer, software. Porque creemos que ser inventores es la mejor profesión del mundo. </p>
+						<h3>Diego García</h3>
+						<p>Amo y señor del conocimiento!</p>
 					</section>
 					<section>
 						<span class="icon major fa-lightbulb-o icon2"></span>
