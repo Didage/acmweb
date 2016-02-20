@@ -16,37 +16,37 @@
 			<section class="box special">
 				<span class="image featured image-main"><img src="images/JuntaACM.jpg" alt="" /></span>
 				<h3>Alejandro Tovar</h3>
-				<p>Estudiante en Ingeniería de Sistemas con doble programa en Música
+				<li>Estudiante en Ingeniería de Sistemas con doble programa en Música
 					<br>Participante en maratones de programación.
-				<br> Tesorero de ACM</p>
+				<br> Tesorero de ACM</li>
 			</section>
 		</div>
 		<div class="4u 12u(narrower)">
 			<section class="box special">
 				<span class="image featured image-main"><img src="images/JuntaACM.jpg" alt="" /></span>
 				<h3>Juan Carlos Saldarriaga</h3>
-				<p>Estudiante en Administración de Empresas con doble programa en Matemáticas
+				<li>Estudiante en Administración de Empresas con doble programa en Matemáticas
 				<br>Participante en maratones de programación, ajedréz.
-				<br>Director de Bootcamps, organizador del día de Pi, Juez del equipo ganador de Alcodehol</p>
+				<br>Director de Bootcamps, organizador del día de Pi, Juez del equipo ganador de Alcodehol</li>
 			</section>
 		</div>
 		<div class="4u 12u(narrower)">
 			<section class="box special">
 				<span class="image featured image-main"><img src="images/JuntaACM.jpg" alt="" /></span>
 				<h3>Ignacio Gomez</h3>
-				<p>Estudiante en Administración de empresas con doble programa en Ingeniería de Sistemas
+				<li>Estudiante en Administración de empresas con doble programa en Ingeniería de Sistemas
 				<br>Spotify.com/igomeza
-				<br>Secretario de ACM</p>
+				<br>Secretario de ACM</li>
 			</section>
 		</div>
 		<div class="4u 12u(narrower)">
 			<section class="box special">
 				<span class="image featured image-main"><img src="images/JuntaACM.jpg" alt="" /></span>
 				<h3>Esteban Dalel</h3>
-				<p>Estudiante en Ingeniería de Sistemas
+				<li>Estudiante en Ingeniería de Sistemas
 				<br>Experto en experiencias swinger, amante de los tríos y de saber de la vida sexual de los demás
 					<br> 3105588735
-				<br>Presidente de ACM, College Manager para Kiwi, estebandalelr.co</p>
+				<br>Presidente de ACM, College Manager para Kiwi, estebandalelr.co</li>
 			</section>
 		</div>
 				</div>
