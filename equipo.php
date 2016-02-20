@@ -38,7 +38,6 @@
 						<p>La Association for Computing Machinery es la organización educativa y científica en computación más grande del mundo. </p>
 					</section>
 				</div>
-			</section>
 
 	</section>
 
