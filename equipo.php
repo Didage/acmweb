@@ -14,7 +14,7 @@
 			el interés por ella como ciencia, profesión y arte. Estamos comprometidos con resolver los problemas de nuestra comunidad por medio de la herramienta de transformación más poderosa de todas, la tecnología. Para lograrlo, simplemente necesitamos aglomerar un grupo de gente muy inteligente.</p>
 
 		</section>
-
+	</div>
 		<?php include 'include/footer.php'; ?>
 
 	</body>
