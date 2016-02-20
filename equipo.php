@@ -14,7 +14,33 @@
 			el interés por ella como ciencia, profesión y arte. Estamos comprometidos con resolver los problemas de nuestra comunidad por medio de la herramienta de transformación más poderosa de todas, la tecnología. Para lograrlo, simplemente necesitamos aglomerar un grupo de gente muy inteligente.</p>
 
 		</section>
-	</div>
+	<section class="box special features">
+				<div class="features-row">
+					<section>
+						<span class="icon major fa-bolt icon1"></span>
+						<h3>¿Por qué lo hacemos?</h3>
+						<p>Porque nos gusta ayudar a la comunidad por medio de lo que más nos gusta hacer, software. Porque creemos que ser inventores es la mejor profesión del mundo. </p>
+					</section>
+					<section>
+						<span class="icon major fa-lightbulb-o icon2"></span>
+						<h3>¿Qué hacemos?</h3>
+						<p>Soluciones a problemas que nosotros mismos tenemos como estudiantes y cuya solución se extrapola a más gente. Hacemos software, automatizamos procesos para darles eficiencia. </p>
+					</section>
+				</div>
+				<div class="features-row">
+					<section>
+						<span class="icon major fa-simplybuilt icon3"></span>
+						<h3>¿Cómo lo hacemos?</h3>
+						<p>Haciendo que los innovadores de la universidad colaboren entre si. Experimentamos a altas velocidades, tenemos una toma de decisiones inclusiva y debatimos constructivamente. </p>
+					</section>
+					<section>
+						<span class="icon major fa-question icon4"></span>
+						<h3>¿Qué es ACM?</h3>
+						<p>La Association for Computing Machinery es la organización educativa y científica en computación más grande del mundo. </p>
+					</section>
+				</div>
+			</section>
+
 		<?php include 'include/footer.php'; ?>
 
 	</body>
