@@ -5,7 +5,6 @@
 <section id="main" class="container">
 	<header>
 		<h2>Nuestro Equipo</h2>
-		<p>Conócenos</p>
 	</header>
 	<div class="box">
 		<h3>¡Esto apenas está comenzando!</h3>
@@ -13,7 +12,7 @@
 			el interés por ella como ciencia, profesión y arte. Estamos comprometidos con resolver los problemas de nuestra comunidad por medio de la herramienta de transformación más poderosa de todas, la tecnología. Para lograrlo, simplemente necesitamos aglomerar un grupo de gente muy inteligente.</p>
 	</div>
 	<div class="row">
-					<div class="6u 12u(narrower)">
+					<div class="4u 12u(narrower)">
 						<section class="box special">
 							<span class="image featured image-main"><img src="images/JuntaACM.jpg" alt="" /></span>
 							<h3>Alejandro Tovar</h3>
@@ -23,7 +22,7 @@
 							</ul>
 						</section>
 					</div>
-					<div class="6u 12u(narrower)">
+					<div class="4u 12u(narrower)">
 						<section class="box special">
 							<span class="image featured image-main"><img src="images/EquipoACM.jpg" alt="" /></span>
 							<h3>Nuestro Equipo</h3>
@@ -33,7 +32,7 @@
 							</ul>
 						</section>
 					</div>
-					<div class="6u 12u(narrower)">
+					<div class="4u 12u(narrower)">
 						<section class="box special">
 							<span class="image featured image-main"><img src="https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/s526x395/603830_877112182309501_210003835752543284_n.png?oh=ff4fe4a436baeca9fc8fe6bf100df5ef&oe=55CCF170" alt="" /></span>
 							<h3>Actividades</h3>
