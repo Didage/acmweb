@@ -2,7 +2,7 @@
     overflow: hidden;
 }
 
-[class*="col-"]{
+[class*="4u"]{
     margin-bottom: -99999px;
     padding-bottom: 99999px;
 }
