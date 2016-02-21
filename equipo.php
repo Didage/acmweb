@@ -25,11 +25,11 @@
 			<section class="box special">
 				<span class="image featured image-main"><img src="images/JuntaACM.jpg" alt="" /></span>
 				<h3>Juan Carlos Saldarriaga</h3>
-				<ul>
+				<ol>
 				<li>Estudiante en Administración de Empresas con doble programa en Matemáticas</li>
 				<li>Participante en maratones de programación, ajedréz.</li>
 				<li>Director de Bootcamps, organizador del día de Pi, Juez del equipo ganador de Alcodehol</li>
-				</ul>
+				</ol>
 			</section>
 		</div>
 		<div class="4u 12u(narrower)">
