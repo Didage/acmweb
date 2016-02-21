@@ -16,100 +16,100 @@
 			<section class="box special">
 				<span class="image featured image-main"><img src="images/JuntaACM.jpg" alt="" /></span>
 				<h3>Alejandro Tovar</h3>
-				<ol>
+				<ul>
 				<li>Estudiante en Ingeniería de Sistemas con doble programa en Música</li>
 					<li>Participante en maratones de programación.</li>
 				<li> Tesorero de ACM</li>
-					</ol>
+					</ul>
 			</section>
 		</div>
 		<div class="4u 12u(narrower)">
 			<section class="box special">
 				<span class="image featured image-main"><img src="images/JuntaACM.jpg" alt="" /></span>
 				<h3>Juan Carlos Saldarriaga</h3>
-				<ol>
+				<ul>
 				<li>Estudiante en Administración de Empresas con doble programa en Matemáticas</li>
 				<li>Participante en maratones de programación, ajedréz.</li>
 				<li>Director de Bootcamps, organizador del día de Pi, Juez del equipo ganador de Alcodehol</li>
-				</ol>
+				</ul>
 			</section>
 		</div>
 		<div class="4u 12u(narrower)">
 			<section class="box special">
 				<span class="image featured image-main"><img src="images/JuntaACM.jpg" alt="" /></span>
 				<h3>Ignacio Gomez</h3>
-				<ol>
+				<ul>
 				<li>Estudiante en Administración de empresas con doble programa en Ingeniería de Sistemas</li>
 				<li>Spotify.com/igomeza</li>
 				<li>Secretario de ACM</li>
-				</ol>
+				</ul>
 			</section>
 		</div>
 		<div class="4u 12u(narrower)">
 			<section class="box special">
 				<span class="image featured image-main"><img src="images/JuntaACM.jpg" alt="" /></span>
 				<h3>Esteban Dalel</h3>
-				<ol>
+				<ul>
 				<li>Estudiante en Ingeniería de Sistemas</li>
-				<li>Experto en experiencias swinger, amante de los tríos y de saber de la vida sexual de los demás</li>
-					<li> 3105588735</li>
+				<li></li>
+					<li> </li>
 				<li>Presidente de ACM, College Manager para Kiwi, estebandalelr.co</li>
-					</ol>
+					</ul>
 			</section>
 		</div>
 		<div class="4u 12u(narrower)">
 			<section class="box special">
 				<span class="image featured image-main"><img src="images/JuntaACM.jpg" alt="" /></span>
 				<h3>Esteban Vargas</h3>
-				<ol>
+				<ul>
 					<li>Estudiante en Administración de Empresas</li>
 					<li>Co-founder de EnHueco, programador competitivo, tebanvargas.wordpress.com</li>
 					<li>Director Técnico de ACM</li>
-				</ol>
+				</ul>
 			</section>
 		</div>
 		<div class="4u 12u(narrower)">
 			<section class="box special">
 				<span class="image featured image-main"><img src="images/JuntaACM.jpg" alt="" /></span>
 				<h3>Juan Pablo Arévalo</h3>
-				<ol>
+				<ul>
 					<li>Estudiante en Ingeniería Electrónica con doble programa en Ingeniería de Sistemas</li>
 					<li>En sus tiempos libres practica guitarra, piano, juega Play, practica football y programar</li>
 					<li>Vice Presidente de ACM</li>
-				</ol>
+				</ul>
 			</section>
 		</div>
 		<div class="4u 12u(narrower)">
 			<section class="box special">
 				<span class="image featured image-main"><img src="images/JuntaACM.jpg" alt="" /></span>
 				<h3>Alejandra Bravo Vega</h3>
-				<ol>
+				<ul>
 					<li>Estudiante en Ingeniería de Sistemas</li>
 					<li>En sus tiempos libres juega League of Legends (Sattanna), WoW, programadora, aviadora deportiva y tennista.</li>
 					<li>Miembro de ACM</li>
-				</ol>
+				</ul>
 			</section>
 		</div>
 		<div class="4u 12u(narrower)">
 			<section class="box special">
 				<span class="image featured image-main"><img src="images/JuntaACM.jpg" alt="" /></span>
 				<h3>Tomás Kavanagh</h3>
-				<ol>
+				<ul>
 					<li>Estudiante en Ingeniería de Sistemas</li>
 					<li>Lector, jugador de CS:GO, programador, es pinta, soltero y este es su numero: 3115264386</li>
 					<li>Miembro de ACM</li>
-				</ol>
+				</ul>
 			</section>
 		</div>
 		<div class="4u 12u(narrower)">
 			<section class="box special">
 				<span class="image featured image-main"><img src="images/JuntaACM.jpg" alt="" /></span>
 				<h3>Juan Espitia</h3>
-				<ol>
+				<ul>
 					<li>Estudiante en Ingeniería de Sistemas</li>
 					<li>Spotify.com/igomeza</li>
 					<li>Secretario de ACM</li>
-				</ol>
+				</ul>
 			</section>
 		</div>
 				</div>
